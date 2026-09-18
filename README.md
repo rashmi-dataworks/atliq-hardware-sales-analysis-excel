@@ -68,11 +68,11 @@ These reports provide stakeholders with a structured view of customer and market
 ## Project Screenshots
 
 
-![Customer Performance Report](screenshots/customer-performance-report.png)
+![Customer Performance Report](Screenshots/customer-performance-report.png)
 
 
 
-![Market Performance vs Target Report](screenshots/market-performance-vs-target.png)
+![Market Performance vs Target Report](Screenshots/market-performance-vs-target.png)
 
 ## Note
 
